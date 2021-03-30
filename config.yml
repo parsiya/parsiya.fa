@@ -1,0 +1,61 @@
+
+baseurl: "https://parsiya.github.io/parsiya.fa/"
+title: ""
+# theme: hugo-theme-bootstrap4-blog
+theme: hugo-PaperMod
+languageCode: fa
+defaultContentLanguage: fa
+paginate: 5
+summaryLength: 0
+copyright: تحت مجوز [کریتیو کامنز اختیار-غیرتجاری 4.0 بین‌المللی](https://creativecommons.org/licenses/by-nc/4.0/)
+
+permalinks:
+  posts: '/:year/:month/:title/'
+  page: '/:slug/'
+
+menu:
+  sidebar:
+    - name: Link 1
+      url: 'https://example.com'
+    - name: Link 2
+      url: 'https://example.org'
+
+params:
+  author: پارسیا
+ 
+  homeInfoParams:
+    Title: ترجمه بعضی از مطالب سایت [parsiya.net](https://parsiya.net)
+    # Content: ا
+
+  socialIcons: # optional
+    - name: "github"
+      url: "https://github.com/parsiya"
+    - name: "website"
+      url: "https://parsiya.net"
+  
+  ShowBreadCrumbs: true
+  comments: false
+  defaultTheme: dark
+  
+  cover:
+    # hiddenInList: true # uncomment to disable the post cover image in the index
+    # hiddenInSingle: true
+
+languages:
+  fa:
+    languagedirection: rtl
+    weight: 1
+
+markup:
+  goldmark:
+    parser:
+    renderer:
+      hardWraps: false
+      unsafe: true
+
+# needed for search
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
