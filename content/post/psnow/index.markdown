@@ -2,7 +2,6 @@
 title: "آسیب پذیری Remote Code Execution در PlayStation Now"
 date: 2021-03-29T19:20:09-08:00
 draft: false
-languageDir: "rtl"
 ShowToc: true
 cover:
    relative: true
