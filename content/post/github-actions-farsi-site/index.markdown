@@ -71,7 +71,7 @@ cover:
 
 من از سایت فارسی خودم برای مثال استفاده می‌کنم که یک سایت پروژه است:
 
-* آدرس سایت: https://github.com/parsiya/parsiya.fa
+* آدرس سایت: https://parsiya.github.io/parsiya.fa/
 * آدرس مخزن سایت: https://github.com/parsiya/parsiya.fa
 
 ## قالب با متن راست-به-چپ
