@@ -1,35 +1,35 @@
 
 baseurl: "https://parsiya.github.io/parsiya.fa/"
-title: ""
+title: "امنیت و غیره به فارسی"
 # theme: hugo-theme-bootstrap4-blog
 theme: hugo-PaperMod
 languageCode: fa
 defaultContentLanguage: fa
 paginate: 5
-summaryLength: 0
+# summaryLength: 0
 copyright: تحت مجوز [کریتیو کامنز اختیار-غیرتجاری 4.0 بین‌المللی](https://creativecommons.org/licenses/by-nc/4.0/)
 
 permalinks:
   posts: '/:year/:month/:title/'
   page: '/:slug/'
 
-menu:
-  sidebar:
-    - name: Link 1
-      url: 'https://example.com'
-    - name: Link 2
-      url: 'https://example.org'
+# menu:
+#   sidebar:
+#     - name: Link 1
+#       url: 'https://example.com'
+#     - name: Link 2
+#       url: 'https://example.org'
 
 params:
   author: پارسیا
  
   homeInfoParams:
-    Title: ترجمه بعضی از مطالب سایت [parsiya.net](https://parsiya.net)
+    Title: امنیت و غیره به فارسی
     # Content: ا
 
   socialIcons: # optional
     - name: "github"
-      url: "https://github.com/parsiya"
+      url: "https://github.com/parsiya/parsiya.fa"
     - name: "website"
       url: "https://parsiya.net"
   
@@ -38,7 +38,7 @@ params:
   defaultTheme: dark
   
   cover:
-    # hiddenInList: true # uncomment to disable the post cover image in the index
+    hiddenInList: true # uncomment to disable the post cover image in the index
     # hiddenInSingle: true
 
 languages:
