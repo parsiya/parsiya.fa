@@ -5,7 +5,7 @@ draft: false
 ShowToc: true
 cover:
    relative: true
-   image: 
+   image: 07-int32-underflow.jpg
 ---
 
 این کار "هک" نیست و با کاری که من در [محل کارم][ea-security] انجام می‌دهم خیلی
