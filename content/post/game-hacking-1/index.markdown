@@ -100,8 +100,6 @@ global:610:▒▒▒{~money
 [unity-serialization-format]: https://github.com/ata4/disunity/wiki/Serialized-file-format
 [little-endian-wikipedia]: https://en.wikipedia.org/wiki/Endianness#Example
 
-بزرگترین مقدار ممکن پول و تجربه را داشتم
-
 ![](03-global-edited.png)
 
 و بازی را شروع کردم اما نتیجه آن چیزی که می‌خواستم نبود. مقدار پول و تجربه منفی است.
@@ -119,8 +117,10 @@ FF FF FF` را وارد کنیم.
 
 [twos-complement-wikipedia]: https://en.wikipedia.org/wiki/Two%27s_complement
 
+![](06-much-experience.jpg)
+
 # مشکل جدید و integer overflow
-اینجا فکر کردم کار من تمام شده و حواسم به integer overflow نبود. بعد از شروع بازی و کمی تجربه کسب کردن، تجربه ام دوباره منفی شد.
+اینجا فکر کردم کار من تمام شده و حواسم به integer overflow نبود. بعد از شروع بازی و کمی تجربه کسب کردن، تجربه‌ام دوباره منفی شد.
 
 ![](07-int32-underflow.jpg)
 
