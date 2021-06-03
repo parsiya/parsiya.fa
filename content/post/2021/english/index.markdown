@@ -3,6 +3,8 @@ title: "در اهمیت زبان انگلیسی"
 date: 2021-04-30T08:14:37-07:00
 draft: false
 ShowToc: true
+aliases:
+    /post/english/
 # cover:
 #    relative: true
 #    image: 01-pages-settings.png

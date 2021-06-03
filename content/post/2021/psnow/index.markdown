@@ -6,6 +6,8 @@ ShowToc: true
 cover:
    relative: true
    image: 01-h1-bug.png
+aliases:
+   /post/psnow/
 ---
 
 این اولین بانتیِ PlayStation من و اولین متن فارسیِ من درباره امنیت است. متون

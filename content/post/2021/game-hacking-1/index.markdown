@@ -3,6 +3,8 @@ title: "دستکاری سِیو بازی Car Mechanic Simulator 2015"
 date: 2021-05-15T17:57:56-07:00
 draft: false
 ShowToc: true
+aliases:
+    /post/game-hacking-1/
 # cover:
 #    relative: true
 #    image: 07-int32-underflow.jpg

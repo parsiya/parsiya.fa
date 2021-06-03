@@ -4,8 +4,10 @@ date: 2021-04-11T13:25:06-07:00
 draft: false
 ShowToc: true
 cover:
-   relative: true
-   image: 01-pages-settings.png
+  relative: true
+  image: 01-pages-settings.png
+aliases:
+    /post/github-actions-farsi-site/
 ---
 
 در این پست تجربه خودم در راه‌اندازی یک بلاگ فارسی بر پایه [Hugo][hugo-site] روی صفحات گیت‌هاب ([Github Pages][github-pages]) را می‌نویسم. نوشتن این تجربیات به من کمک می‌کند که اگر در آینده خواستم کاری را تکرار کنم [چرخ را دوباره اختراع نکنم][reinvent-the-wheel].
