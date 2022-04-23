@@ -1,11 +1,10 @@
 
 baseurl: "https://parsiya.github.io/parsiya.fa/"
 title: "امنیت و غیره به فارسی"
-# theme: hugo-theme-bootstrap4-blog
 theme: hugo-PaperMod
 languageCode: fa
 defaultContentLanguage: fa
-paginate: 5
+paginate: 10
 # summaryLength: 0
 copyright: تحت مجوز [کریتیو کامنز اختیار-غیرتجاری 4.0 بین‌المللی](https://creativecommons.org/licenses/by-nc/4.0/)
 
