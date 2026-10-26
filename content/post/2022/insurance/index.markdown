@@ -12,8 +12,10 @@ ShowToc: true
 ## آیا بیمه عمر بد است؟
 در اینجا نمی‌خواهم در مورد خوب یا بد بودن بیمه عمر صحبت کنم. اکثر بیمه‌های عمری که به شما پیشنهاد می‌شوند در دسته permanent life insurance طبقه‌بندی می‌شوند که برای اکثر افراد مناسب نیستند. شما می‌توانید با جستجو در مورد permanent life insurance و term life insurance در مورد آنها بدانید. افراد زیادی در این مورد صحبت کرده اند. به عنوان مثال:
 
+{{< direction dir="ltr" lang="en" >}}
 * https://www.whitecoatinvestor.com/debunking-the-myths-of-whole-life-insurance/
 * https://www.reddit.com/r/personalfinance/wiki/insurance
+{{< /direction >}}
 
 این نوع بیمه‌ها حق بیمه بالایی دارند. مخصوصا برای تازه‌واردین که درآمد بالایی ندارند فقط یک هزینه اضافی هستند. این بیمه‎‌ها کارمزد بسیار خوبی به فروشنده می‌دهند (معمولاً حدود یک سال از حق بیمه) چون برای شرکت صادرکننده بسیار سودآور هستند.
 
@@ -31,7 +33,7 @@ ShowToc: true
 
 مثالهای بیشتری هم بودند که فقط اشاره می‌کنم:
 
- * "اینده مالی فرزندان." بیمه عمر بخرید تا فرزندانتان تامین باشند.
+* "اینده مالی فرزندان." بیمه عمر بخرید تا فرزندانتان تامین باشند.
 * "بیمه مخصوص بیماریهای حاد." 
 * "اشتباهات مالی مهاجرین ایرانی" (درست حدس زدید که یکی از اشتباهات نخریدن بیمه عمر است).
 
@@ -57,5 +59,7 @@ ShowToc: true
 
 این منابع برای من در ابتدای مسیر بسیار مفید بودند:
  
- * https://www.reddit.com/r/PersonalFinanceCanada/wiki/index
-* https://www.reddit.com/r/personalfinance/wiki/index ( معادل آمریکایی مورد بالا)
+{{< direction dir="ltr" lang="en" >}}
+* https://www.reddit.com/r/PersonalFinanceCanada/wiki/index
+* https://www.reddit.com/r/personalfinance/wiki/index {{< bidi dir="rtl" lang="fa" >}}(معادل آمریکایی مورد بالا){{< /bidi >}}
+{{< /direction >}}

@@ -1,10 +1,10 @@
 
 baseurl: "https://parsiya.github.io/parsiya.fa/"
 title: "امنیت و غیره به فارسی"
-theme: hugo-PaperMod
-languageCode: fa
+theme: Hugo-Octopress
 defaultContentLanguage: fa
-paginate: 10
+pagination:
+  pagerSize: 10
 # summaryLength: 0
 copyright: تحت مجوز [کریتیو کامنز اختیار-غیرتجاری 4.0 بین‌المللی](https://creativecommons.org/licenses/by-nc/4.0/)
 
@@ -21,6 +21,12 @@ permalinks:
 
 params:
   author: پارسیا
+  mainSections: [post]
+  compactIndex: true
+  disableGoogleFonts: true
+  rss: true
+  sidebarRecentLimit: 5
+  github: "https://github.com/parsiya/parsiya.fa"
  
   homeInfoParams:
     Title: امنیت و غیره به فارسی
@@ -42,19 +48,26 @@ params:
 
 languages:
   fa:
-    languagedirection: rtl
+    locale: fa-IR
+    label: فارسی
+    direction: rtl
     weight: 1
+
+menus:
+  main:
+    - name: خانه
+      pageRef: /
 
 markup:
   goldmark:
+    extensions:
+      typographer: false
     parser:
     renderer:
       hardWraps: false
       unsafe: true
 
-# needed for search
 outputs:
     home:
         - HTML
         - RSS
-        - JSON # is necessary
